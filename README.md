@@ -34,12 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Priyesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRIYESHRAJ17&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyeshraj17)
