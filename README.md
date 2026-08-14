@@ -1,6 +1,6 @@
 # Hi, I'm Priyesh Raj 👋
 
-🎓 1st Year B.E. CSE (Data Science) @ DSATM, Bengaluru  
+🎓 2nd Year B.E. CSE (Data Science) @ DSATM, Bengaluru  
 🎯 Targeting AI/ML & Data Science roles  
 🤖 Currently building: ML projects & DSA foundations  
 ♟️ Chess player with international tournament experience
